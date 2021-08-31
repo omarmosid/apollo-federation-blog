@@ -1,6 +1,6 @@
 # Federation Example Project
 
-This is a very dumb example project to demonstrate how we can use Apollo Federation + Apollo Gateway to create a federated gateway across our microservices.
+This is an example project to demonstrate how we can use Apollo Federation + Apollo Gateway to create a federated gateway across our microservices.
 
 For the sake of simplicity I've created two services here - **Post** and **Comment**, which sit behind a **Gateway**.
 
